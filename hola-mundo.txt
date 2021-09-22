@@ -4,4 +4,8 @@ hola, mundo!
 hola mundo
 >>>>>>> spain
 
+<<<<<<< HEAD
 Petya were here
+=======
+Sasha were here!
+>>>>>>> sasha
